@@ -1,0 +1,28 @@
+__cstring (CSTRING_LITERALS) section started  {0x10001e140-0x10001f3ad}
+10001e140  76 38 40 3f 30 00 00 00 00 00 00 00 00 00 00 00  v8@?0...........
+
+10001e150  char const data_10001e150[0x15] = "Developed by Nexus42", 0
+
+10001e165                 00 00 00 00 00 00 00 00 00 00 00       ...........
+
+10001e170  char const data_10001e170[0x11] = "More Coming Soon", 0
+
+10001e181     00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ...............
+
+10001e190  char const data_10001e190[0x19] = "Sandbox Settings - Abyss", 0
+
+10001e1a9                             00 00 00 00 00 00 00           .......
+
+10001e1b0  char const data_10001e1b0[0x12] = "Allow File System", 0
+
+10001e1c2        00 00 00 00 00 00 00 00 00 00 00 00 00 00    ..............
+
+10001e1d0  char const data_10001e1d0[0x14] = "Allow Debug Library", 0
+
+10001e1e4              00 00 00 00 00 00 00 00 00 00 00 00      ............
+
+10001e1f0  char const data_10001e1f0[0x13] = "Allow HTTP Traffic", 0
+
+10001e203           00 00 00 00 00 00 00 00 00 00 00 00 00     .............
+
+10001e210  char const data_10001e210[0x18] = "Allow Queue On Teleport", 0
