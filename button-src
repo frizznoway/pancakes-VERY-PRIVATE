@@ -1,0 +1,10 @@
+10000ea00  int64_t _$s9MacSploit11FancyButtonV4bodyQrvgyycfU0_TA(int64_t arg1 @ r13)
+
+10000ea04      int64_t var_10 = arg1
+10000ea11      int512_t zmm0
+10000ea11      zmm0.o = zx.o(0x3fb999999999999a)
+10000ea19      int64_t rax = _$s7SwiftUI9AnimationV6linear8durationACSd_tFZ()
+10000ea21      int64_t var_28 = arg1 + 0x10
+10000ea41      void var_38
+10000ea41      _$s7SwiftUI13withAnimationyxAA0D0VSg_xyKXEtKlF(rax, _$s9MacSploit11FancyButtonV4bodyQrvgyycfU0_yyXEfU_TA, &var_38, _$sytN + 8)
+10000ea58      return _swift_release(rax)
